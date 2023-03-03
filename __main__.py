@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from urllib.request import urlopen
 import json
 
-app = Flask(__name__, static_folder='game')
+app = Flask(__name__, static_folder='static')
 
 @app.route('/')
 def index():
