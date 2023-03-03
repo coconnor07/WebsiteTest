@@ -1,0 +1,29 @@
+body {
+    background: rgb(10, 10, 10);
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 700;
+}
+
+p {
+    font-size: 400;
+}
+
+input {
+    background: rgb(50, 50, 50);
+    color:white;
+}
+
+button {
+    background: rgb(50, 50, 50);
+    color:white;
+    width: 15%;
+    height: 10%;
+}
